@@ -1,11 +1,13 @@
 # Maps And Sets 🗺️
 
+### Lists
+
+Given this list of integers: `[5, 3, 15, 4, 1]`.
+Using a `for` loop count the sum of those elements.
+
 ### Sets
 
-1. Given this list of integers: `[5, 3, 15, 4, 1]`.
-   Using a `for` loop count the sum of those elements.
-
-2. Given two integer sets `a` and `b`, calculate the set of the elements that belong to either `a` or `b`, but not both.
+Given two integer sets `a` and `b`, calculate the set of the elements that belong to either `a` or `b`, but not both.
 
 Example, given the following:
 
